@@ -10,8 +10,8 @@ header .logo {
 
 #main{
     background-color: rgb(29, 31, 31);
-    width: 90%;
-    margin-left: 100px;
+    width: 100%;
+    /* margin-left: 100px; */
     border-radius: 30px;
     height: 50px;
     margin-top: 10px;
@@ -126,6 +126,4 @@ footer {
     height: 5px;
     max-width: 100%;
 } 
-
-
 
