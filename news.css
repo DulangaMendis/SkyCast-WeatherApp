@@ -1,0 +1,131 @@
+body {
+    background-color: #121212;
+    font-family: 'Arial', sans-serif;
+}
+
+header .logo {
+    display: flex;
+    align-items: center;
+}
+
+#main{
+    background-color: rgb(29, 31, 31);
+    width: 90%;
+    margin-left: 100px;
+    border-radius: 30px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+#hometag{
+    margin-left: 50px;
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+#arrow{
+    margin-left: 50px;
+    color: aliceblue;
+    margin-top: 10px;
+
+}
+
+#newstag{
+    margin-left: 50px;
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+.image-news-1{
+    width: 700px;
+}
+
+#readmore{
+    background-color: cadetblue;
+    border-radius: 30px;
+}
+
+footer {
+    background-color: #121212;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.company-name h2 {
+    margin: 0;
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.social-icons {
+    margin-top: 15px;
+}
+
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+.social-icons a:hover {
+    color: #1da1f2; /* Twitter Blue */
+}
+
+.social-icons a:nth-child(1):hover {
+    color: #4267B2; /* Facebook Blue */
+}
+
+.social-icons a:nth-child(2):hover {
+    color: #C13584; /* Instagram Pink */
+}
+
+#coverbanner{
+    width: 100%;
+    height: 400px;
+}
+
+.entry-title{
+    color: rgb(255, 255, 255);
+}
+ .entry-paragraph{
+    color: #fff;
+    font-family: 'Arial Narrow';
+ }
+
+ .widget-title{
+    color:#20c7ed;
+    margin-left: 40px;
+    font-family: 'Gill Sans';
+ }
+ .widget{
+    background-color: #253433f0;
+    border-radius: 20px;
+ }
+
+ .arrow-list{
+    color: #fff;
+ }
+
+  #line{
+    background-color: #ccc;
+    height: 5px;
+    max-width: 100%;
+} 
+
+
+
